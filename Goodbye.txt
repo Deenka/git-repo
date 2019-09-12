@@ -1,2 +1,0 @@
-print(«Bye Bye»)
-print(«You know the song, right?»);
